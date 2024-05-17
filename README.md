@@ -48,8 +48,8 @@ Confidence Score: 0.99818295
  ```
 ## Acknowledgements
 - Teachable Machine
-TensorFlow
-Visual Studio Code
+- TensorFlow
+- Visual Studio Code
 
 
 
