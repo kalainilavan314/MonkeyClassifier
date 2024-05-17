@@ -25,7 +25,7 @@ MonkeyClassifier is a machine learning project that classifies different monkey 
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/MonkeyClassifier.git
+   git clone https://github.com/kalainilavan314/MonkeyClassifier.git
    cd MonkeyClassifier
 
 ## Create a virtual environment
