@@ -38,3 +38,11 @@ venv\Scripts\activate
 On macOS and Linux:
 source venv/bin/activate
 
+## Example Output
+After running the script with an input image, you should see an output similar to the following in your terminal
+```yaml
+Class: micoargentatus
+Confidence Score: 0.99818295
+
+
+
