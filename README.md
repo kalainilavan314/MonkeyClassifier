@@ -47,7 +47,7 @@ Class: micoargentatus
 Confidence Score: 0.99818295
  ```
 ## Acknowledgements
-Teachable Machine
+- Teachable Machine
 TensorFlow
 Visual Studio Code
 
