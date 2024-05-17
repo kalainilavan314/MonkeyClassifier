@@ -27,3 +27,14 @@ MonkeyClassifier is a machine learning project that classifies different monkey 
    ```sh
    git clone https://github.com/yourusername/MonkeyClassifier.git
    cd MonkeyClassifier
+
+## Create a virtual environment
+python -m venv venv
+
+## Activate the virtual environment:
+On Windows:
+venv\Scripts\activate
+
+On macOS and Linux:
+source venv/bin/activate
+
