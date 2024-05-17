@@ -29,12 +29,14 @@ MonkeyClassifier is a machine learning project that classifies different monkey 
    cd MonkeyClassifier
 
 ## Create a virtual environment
+  ```sh
 python -m venv venv
-
+  ```
 ## Activate the virtual environment:
 On Windows:
+ ```sh
 venv\Scripts\activate
-
+ ```
 On macOS and Linux:
 source venv/bin/activate
 
@@ -43,6 +45,11 @@ After running the script with an input image, you should see an output similar t
 ```yaml
 Class: micoargentatus
 Confidence Score: 0.99818295
+ ```
+## Acknowledgements
+Teachable Machine
+TensorFlow
+Visual Studio Code
 
 
 
